@@ -1,6 +1,6 @@
 ### Fake natty or not, a IA generativa no meio fitness 
 
-<img src="/exempleman.jpg">
+<img src="/exemploman1.jpg">
 
 ## 📒 Geração de imagens Fitness com IA 
 
@@ -20,9 +20,6 @@ https://gencraft.com/generate
 Letsenhance para melhorar a qualidade:
 https://letsenhance.io/boost
 
-WatermakeRemover.io para tirar marca de água: 
-https://www.watermarkremover.io/pt/upload
-
 ## 🧐 Processo de Criação
 1) Gerei as imagens no Gengraft utilizando os seguintes parametros:
    
@@ -31,7 +28,7 @@ Style = Realistic
 Prompt = A (((powerful man))) with (bulging, definition-worthy musculature) poised elegantly against a (wallpaper backdrop), expressionless yet exuding an air of raw power, his eyes closed but drawn in intricate detail against a (minimalist black and white color scheme).
 Após 
 
-2) Otimizei as imagens as imagens no Letsenhance e tirei a marca de água no WatermarkerRemover.
+2) Otimizei as imagens as imagens no Letsenhance.
    
 ## 🚀 Resultados
 <img src="/exempleman2.png">
