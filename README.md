@@ -31,7 +31,7 @@ Após
 2) Otimizei as imagens as imagens no Letsenhance.
    
 ## 🚀 Resultados
-<img src="/exempleman2.png">
+<img src="/exempleman2.jpg">
 
 ## 💭 Reflexão 
 Com o advento de IA generativas se a imagens forem bem refinadas como ficará a industria de revistas que utilizava deles para vender seus produtos?
