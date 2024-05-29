@@ -23,17 +23,16 @@ https://letsenhance.io/boost
 ## 🧐 Processo de Criação
 1) Gerei as imagens no Gengraft utilizando os seguintes parametros:
    
-Style = Realistic
+   Style = Realistic
 
-Prompt = A (((powerful man))) with (bulging, definition-worthy musculature) poised elegantly against a (wallpaper backdrop), expressionless yet exuding an air of raw power, his eyes closed but drawn in intricate detail against a (minimalist black and white color scheme).
-Após 
+   Prompt = A (((powerful man))) with (bulging, definition-worthy musculature) poised elegantly against a (wallpaper       backdrop), expressionless yet exuding an air of raw power, his eyes closed but drawn in intricate detail against a      (minimalist black and white color scheme).
 
-2) Otimizei as imagens as imagens no Letsenhance.
+2) Otimizei as imagens no Letsenhance.
    
 ## 🚀 Resultados
-<img src="/exempleman2.jpg">
+<img src="/exemploman2.jpg">
 
 ## 💭 Reflexão 
-Com o advento de IA generativas se a imagens forem bem refinadas como ficará a industria de revistas que utilizava deles para vender seus produtos?
-Pretendo posteiormente evoluir essa ideia para um projeto, utilizei UX como ferramenta interativa para solicitações. 
+1) Com o advento de IA generativas se a imagens forem bem refinadas como ficará a industria de revistas que utilizava deles para vender seus produtos?
+2) Pretendo posteiormente evoluir essa ideia para um projeto, utilizei UX como ferramenta interativa para solicitações. 
 ```
