@@ -1,8 +1,5 @@
-
-
-
-
 ### Fake natty or not, a IA generativa no meio fitness 
+
 <img src="/exempleman.jpg">
 
 ## 📒 Geração de imagens Fitness com IA 
